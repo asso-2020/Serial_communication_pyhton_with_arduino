@@ -10,7 +10,7 @@ You will see some text with COM Port number in the bottom right corner in Arduin
 
 ### Step3: Install PySerial
 
-Run cmd and type the foloowing line
+Run cmd and type the following line
 
 `> pip install pyserial`
 
