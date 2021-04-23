@@ -1,4 +1,4 @@
-# Serial_communication-_pyhton_with_ardiono
+# Serial_communication-_pyhton_with_arduino
 
 ### Step1: Download arduino code  
 
