@@ -24,4 +24,4 @@ Now, open the file with any editor and edit the COM port number inside python fi
 
 `> python x.py`
 
-### Finally, you will see the builtIn LED on your board is blinking. 
+### Finally, you will see the builtIn LED on your arduino board is blinking. 
